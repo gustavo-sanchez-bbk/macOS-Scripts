@@ -24,25 +24,8 @@ Planned structure (will evolve over time):
 ```text
 .
 ├── macOS/
-│   ├── macOSscripts/
-│   ├── extension-attributes/
-│   ├── policies/
-│   └── self-service/
-    └── config-profiles/
-├── compliance/
-│   ├── cis/
-│   ├── iso27001/
-│   └── reporting/
-├── install/
-│   ├── installomator-labels/
-│   ├── patchomator-workflows/
-│   └── custom-installers/
-├── ux/
-│   ├── swiftDialog/
-│   └── onboarding/
-├── integrations/
-│   ├── slack/
-│   └── gcp/
-└── utils/
-    ├── logging/
-    └── helpers/
+│   ├── Scripts/
+│   ├── Extension-Attributes/
+│   ├── Compliance/
+│   └── Config-Profiles
+    
