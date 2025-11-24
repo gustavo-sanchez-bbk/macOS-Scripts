@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 
-<!--This profile allows administrators to supress video reactions introduced in macOS Sonoma-->
+<!--This profile allows administrators to supress video reactions introduced in macOS Sonoma, set the domain preference to group.com.apple.secure-control-center-preferences.av-->
   <dict>
     <key>videoeffects/Cisco-Systems-Spark/gestures-enabled</key>
     <false/>
